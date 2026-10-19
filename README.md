@@ -34,7 +34,7 @@ I am actively preparing for opportunities **both in Brazil and internationally**
 ### 📚 Certifications
 - **HDI Support Center Analyst** *(in progress)*  
 - **ITIL 4 Foundation** *(in progress)*  
-
+- **ISO 27001**
 ---
 
 ### 🌱 Currently Studying
